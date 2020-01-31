@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+table {
+    padding: 10px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
