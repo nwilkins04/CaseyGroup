@@ -1,13 +1,23 @@
 body {
-    background-color: lightgrey;
+    background-color: white;
     text-align: center;
-    padding: 10px;
 }
 
+#navBar {
+    background-color: rgb(161, 206, 243);
+    float: left;
+    padding: 5px;
+    color: white;
+    width: 100%;
+}
 
+#navBar a:hover {
+    background-color: rgb(92, 136, 177);
+}
 
 table {
     padding: 10px;
+    background-color: lightgrey;
 }
 
 
@@ -15,4 +25,5 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0px;
+    outline-style: solid;
 }
