@@ -9,9 +9,35 @@ body {
     padding: 5px;
     color: white;
     width: 100%;
+    font-size: 20px;
 }
 
-#navBar a:hover {
+.dropdown {
+    overflow: hidden;
+}
+
+.dropbtn {
+    
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0px;
+}
+
+.dropdown-content a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    background-color: rgb(161, 206, 243);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#navBar a:hover, .dropdown:hover {
     background-color: rgb(92, 136, 177);
 }
 
