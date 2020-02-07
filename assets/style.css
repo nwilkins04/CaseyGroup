@@ -12,18 +12,9 @@ body {
     font-size: 20px;
 }
 
-.dropdown {
-    overflow: hidden;
-}
-
-.dropbtn {
-    
-}
-
 .dropdown-content {
     display: none;
     position: absolute;
-    right: 0px;
 }
 
 .dropdown-content a{
