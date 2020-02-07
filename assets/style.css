@@ -20,6 +20,9 @@ table {
     background-color: lightgrey;
 }
 
+#content {
+    background-color: lightgrey;
+}
 
 footer {
     position: fixed;
