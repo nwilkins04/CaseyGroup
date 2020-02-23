@@ -37,6 +37,10 @@ table {
     background-color: lightgrey;
 }
 
+#staffpic {
+    padding: 10px;
+}
+
 #content {
     background-color: lightgrey;
 }
