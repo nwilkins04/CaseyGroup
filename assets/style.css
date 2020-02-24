@@ -41,13 +41,17 @@ table {
     padding: 10px;
 }
 
+#EOE {
+    font-size: 10px;
+}
+
 #content {
     background-color: lightgrey;
 }
 
 footer {
-    position: fixed;
     width: 100%;
     bottom: 0px;
     outline-style: solid;
+    padding-top: 5px;
 }
